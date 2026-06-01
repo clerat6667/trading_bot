@@ -1,0 +1,3 @@
+ython-binance==1.0.19
+requests
+python-dotenv
